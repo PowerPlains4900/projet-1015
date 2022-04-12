@@ -5,6 +5,8 @@
 #include <QPushButton>
 #include <QPainter>
 #include <QLabel>
+#include <vector>
+#include <qvector2d.h>
 
 class Chess : public QWidget
 {
@@ -13,7 +15,7 @@ class Chess : public QWidget
 public:
     Chess(QWidget *parent = Q_NULLPTR);
 
-    virtual void paintEvent(QPaintEvent* event)
+    /*virtual void paintEvent(QPaintEvent* event)
     {
         QPainter painter(this);
 
@@ -25,21 +27,30 @@ public:
                     painter.setBrush(Qt::lightGray);
                 else
                     painter.setBrush(Qt::darkCyan);
-                painter.drawRect(QRect(i * tailleTuiles, j * tailleTuiles, tailleTuiles, tailleTuiles));
+                //painter.drawRect(QRect(i * tailleTuiles, j * tailleTuiles, tailleTuiles, tailleTuiles));
             }
         }
-    }
+    }*/
 private:
     Ui::ChessClass ui;
     int tailleTuiles = 75;
 };
-
+class essai {
+public:
+    QString getcouleur() { return couleur; }
+private:
+    QString couleur = "Noir";
+};
 class Piece : public QWidget
 {
 public:
     Piece(QWidget* parent, QLabel* l) : QWidget(parent)
     {
-        image.load("ChessKing.png");
+        essai i;
+        //QString j = "Blanc";
+        //i += j + ".png";
+        //image = QImage(i);
+        image.load("PionTest"+i.getcouleur() + ".PNG");
         l->setPixmap(QPixmap::fromImage(image.scaled(75, 75)));
     }
 private:

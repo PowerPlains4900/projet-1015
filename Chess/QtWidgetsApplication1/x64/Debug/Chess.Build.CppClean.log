@@ -1,31 +1,33 @@
-c:\users\eug12\desktop\projet 1015\chess\qtwidgetsapplication1\x64\debug\uic\ui_chess.h
-c:\users\eug12\desktop\projet 1015\chess\qtwidgetsapplication1\x64\debug\rcc\qrc_chess.cpp
-c:\users\eug12\desktop\projet 1015\chess\qtwidgetsapplication1\x64\debug\moc\moc_chess.cpp
-c:\users\eug12\desktop\projet 1015\chess\qtwidgetsapplication1\x64\debug\chess.pch
-c:\users\eug12\desktop\projet 1015\chess\qtwidgetsapplication1\x64\debug\vc143.pdb
-c:\users\eug12\desktop\projet 1015\chess\qtwidgetsapplication1\x64\debug\stdafx.obj
-c:\users\eug12\desktop\projet 1015\chess\qtwidgetsapplication1\x64\debug\qrc_chess.obj
-c:\users\eug12\desktop\projet 1015\chess\qtwidgetsapplication1\x64\debug\main.obj
-c:\users\eug12\desktop\projet 1015\chess\qtwidgetsapplication1\x64\debug\chess.obj
-c:\users\eug12\desktop\projet 1015\chess\qtwidgetsapplication1\x64\debug\moc_chess.obj
-c:\users\eug12\desktop\projet 1015\chess\x64\debug\chess.exe
-c:\users\eug12\desktop\projet 1015\chess\x64\debug\chess.ilk
-c:\users\eug12\desktop\projet 1015\chess\x64\debug\chess.pdb
-c:\users\eug12\desktop\projet 1015\chess\qtwidgetsapplication1\x64\debug\qtwidgetsapplication1.res
-c:\users\eug12\desktop\projet 1015\chess\qtwidgetsapplication1\x64\debug\qtwidgetsapplication1.pch
-c:\users\eug12\desktop\projet 1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\chess.write.1u.tlog
-c:\users\eug12\desktop\projet 1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\cl.command.1.tlog
-c:\users\eug12\desktop\projet 1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\cl.read.1.tlog
-c:\users\eug12\desktop\projet 1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\cl.write.1.tlog
-c:\users\eug12\desktop\projet 1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\link.command.1.tlog
-c:\users\eug12\desktop\projet 1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\link.read.1.tlog
-c:\users\eug12\desktop\projet 1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\link.write.1.tlog
-c:\users\eug12\desktop\projet 1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\moc.read.1u.tlog
-c:\users\eug12\desktop\projet 1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\moc.write.1u.tlog
-c:\users\eug12\desktop\projet 1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\rc.command.1.tlog
-c:\users\eug12\desktop\projet 1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\rc.read.1.tlog
-c:\users\eug12\desktop\projet 1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\rc.write.1.tlog
-c:\users\eug12\desktop\projet 1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\rcc.read.1u.tlog
-c:\users\eug12\desktop\projet 1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\rcc.write.1u.tlog
-c:\users\eug12\desktop\projet 1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\uic.read.1u.tlog
-c:\users\eug12\desktop\projet 1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\uic.write.1u.tlog
+d:\echec\projet-1015\chess\qtwidgetsapplication1\x64\debug\uic\ui_chess.h
+d:\echec\projet-1015\chess\qtwidgetsapplication1\x64\debug\rcc\qrc_chess.cpp
+d:\echec\projet-1015\chess\qtwidgetsapplication1\x64\debug\moc\moc_chess.cpp
+d:\echec\projet-1015\chess\qtwidgetsapplication1\x64\debug\main.obj
+d:\echec\projet-1015\chess\qtwidgetsapplication1\x64\debug\chess.obj
+d:\echec\projet-1015\chess\qtwidgetsapplication1\x64\debug\piece.obj
+d:\echec\projet-1015\chess\qtwidgetsapplication1\x64\debug\chess.pch
+d:\echec\projet-1015\chess\qtwidgetsapplication1\x64\debug\vc143.pdb
+d:\echec\projet-1015\chess\qtwidgetsapplication1\x64\debug\stdafx.obj
+d:\echec\projet-1015\chess\qtwidgetsapplication1\x64\debug\tuile.obj
+d:\echec\projet-1015\chess\qtwidgetsapplication1\x64\debug\joueur.obj
+d:\echec\projet-1015\chess\qtwidgetsapplication1\x64\debug\qrc_chess.obj
+d:\echec\projet-1015\chess\qtwidgetsapplication1\x64\debug\moc_chess.obj
+d:\echec\projet-1015\chess\x64\debug\chess.exe
+d:\echec\projet-1015\chess\x64\debug\chess.ilk
+d:\echec\projet-1015\chess\x64\debug\chess.pdb
+d:\echec\projet-1015\chess\qtwidgetsapplication1\x64\debug\qtwidgetsapplication1.res
+d:\echec\projet-1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\chess.write.1u.tlog
+d:\echec\projet-1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\cl.command.1.tlog
+d:\echec\projet-1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\cl.read.1.tlog
+d:\echec\projet-1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\cl.write.1.tlog
+d:\echec\projet-1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\link.command.1.tlog
+d:\echec\projet-1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\link.read.1.tlog
+d:\echec\projet-1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\link.write.1.tlog
+d:\echec\projet-1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\moc.read.1u.tlog
+d:\echec\projet-1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\moc.write.1u.tlog
+d:\echec\projet-1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\rc.command.1.tlog
+d:\echec\projet-1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\rc.read.1.tlog
+d:\echec\projet-1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\rc.write.1.tlog
+d:\echec\projet-1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\rcc.read.1u.tlog
+d:\echec\projet-1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\rcc.write.1u.tlog
+d:\echec\projet-1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\uic.read.1u.tlog
+d:\echec\projet-1015\chess\qtwidgetsapplication1\x64\debug\chess.tlog\uic.write.1u.tlog
